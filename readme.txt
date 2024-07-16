@@ -1,5 +1,3 @@
-Code-for-SGTL-master
-
 Some tips to use this package code:
 
 Open main.py to run the proposed CEC model. You can replace the dataset in the experiment as you want.
